@@ -1,8 +1,4 @@
-- 👋 Hi, I’m satoooo
-- 👀 I’m interested in ...splatoon3
-- 🌱 I’m currently learning ...jp
-- 💞️ I’m looking to collaborate on ...jp
-- 📫 How to reach me ...jp
+- 👋 Hi, hi hi hi
 
 <!---
 satoooo0228/satoooo0228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
